@@ -1,6 +1,6 @@
-# 🎙️ VoicePay - Voice-Based UPI Payment System
+# VoicePay - Voice-Based UPI Payment System
 
-## 🌟 Overview
+## Overview
 
 **VoicePay** is an inclusive, voice-first UPI payment application designed to make digital transactions accessible for **elderly users** and **visually impaired individuals**. Built with accessibility at its core, VoicePay enables users to complete financial transactions using simple voice commands in their preferred language.
 
@@ -22,7 +22,7 @@ The system processes speech, verifies identity, executes transactions, and provi
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### Voice-First Interface
 - **Speech Recognition:** Natural language command processing
@@ -31,12 +31,12 @@ The system processes speech, verifies identity, executes transactions, and provi
 - **Error Handling:** Clear voice guidance for corrections
 
 ### Core Functionality
-- ✅ Voice-controlled money transfers
-- ✅ Balance inquiries via speech
-- ✅ Transaction history with audio playback
-- ✅ Biometric verification (simulated)
-- ✅ Real-time balance updates
-- ✅ Accessible UI design
+- Voice-controlled money transfers
+- Balance inquiries via speech
+- Transaction history with audio playback
+- Biometric verification (simulated)
+- Real-time balance updates
+- Accessible UI design
 
 ### Security
 - JWT-based authentication
@@ -47,7 +47,7 @@ The system processes speech, verifies identity, executes transactions, and provi
 
 ---
 
-## 🎯 Target Users
+## Target Users
 
 1. **Elderly Citizens** - Simplified interface with large text and voice control
 2. **Visually Impaired** - Complete screen-reader compatibility and audio feedback
@@ -56,7 +56,7 @@ The system processes speech, verifies identity, executes transactions, and provi
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### Technology Stack
 
@@ -87,7 +87,7 @@ Transaction Processing → Response → TTS Feedback
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js v18+ 
@@ -131,7 +131,7 @@ npm run dev
 
 ---
 
-## 🎤 Voice Commands
+## Voice Commands
 
 ### Transaction Commands
 - "Send 500 rupees to Priya"
@@ -152,7 +152,7 @@ npm run dev
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 ### Authentication
 - `POST /api/auth/register` - User registration
@@ -174,12 +174,12 @@ npm run dev
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 ### Live Demo
 - **Frontend:** [Your Vercel URL]
 - **Backend API:** [Your Railway URL]
-- **Status:** ✅ Live and Running
+- **Status:** Live and Running
 
 ### Deploy Your Own
 
@@ -189,7 +189,7 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions on deploying to:
 
 ---
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 ### Accessibility First
 - **Large Touch Targets:** Easy for elderly users
@@ -206,7 +206,7 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions on deploying to:
 
 ---
 
-## 🔐 Security Measures
+## Security Measures
 
 - **Authentication:** JWT-based secure tokens
 - **Encryption:** Password hashing with bcrypt
@@ -228,7 +228,7 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions on deploying to:
 
 ---
 
-## 🗺️ Future Roadmap
+## Future Roadmap
 
 ### Phase 2: Enhanced Features
 - Voice biometric authentication
@@ -242,85 +242,14 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions on deploying to:
 - QR code scanning
 - UPI PIN management
 
-### Phase 4: Advanced Capabilities
-- AI-powered fraud detection
-- Offline transaction queue
-- Bill payment integration
-- Spending insights and analytics
+## Achievements
 
-### Phase 5: Scale
-- Native mobile apps (iOS/Android)
-- Enterprise solutions
-- International expansion
-- Partnership integrations
+- Fully functional voice-based payment system
+- Multi-language support implemented
+- Accessibility-first design
+- Production-ready MVP
+- Comprehensive documentation
+- Real-time transaction processing
+- Secure authentication system
 
 ---
-
-## 🤝 Contributing
-
-We welcome contributions! To contribute:
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
-
----
-
-## 📄 Documentation
-
-- **[SOURCE_CODE_DOCUMENTATION.md](SOURCE_CODE_DOCUMENTATION.md)** - Complete source code guide
-- **[DEPLOYMENT.md](DEPLOYMENT.md)** - Deployment instructions
-- **LICENSE** - MIT License
-
----
-
-## 🏆 Achievements
-
-- ✅ Fully functional voice-based payment system
-- ✅ Multi-language support implemented
-- ✅ Accessibility-first design
-- ✅ Production-ready MVP
-- ✅ Comprehensive documentation
-- ✅ Real-time transaction processing
-- ✅ Secure authentication system
-
----
-
-## 🌍 Social Impact
-
-VoicePay aims to:
-- Bridge the digital divide in financial services
-- Empower elderly citizens with technology
-- Enable visually impaired individuals to transact independently
-- Promote financial inclusion in rural areas
-- Reduce dependency on others for digital payments
-
----
-
-## 📞 Support & Contact
-
-- **Documentation:** See SOURCE_CODE_DOCUMENTATION.md
-- **Issues:** GitHub Issues
-- **Email:** support@voicepay.com
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- Built with accessibility and inclusion as core values
-- Inspired by the need to make digital payments universal
-- Designed with feedback from elderly users and accessibility advocates
-
----
-
-**Made with ❤️ for Financial Inclusion**
-
-**VoicePay Team**
